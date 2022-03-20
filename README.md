@@ -36,8 +36,4 @@ Aynı görevi yapan pek çok benzer araç var ancak Selenium daha çok tercih ed
 
 ![ProductTestTool_edit_0(1)](https://user-images.githubusercontent.com/81421228/159164000-146f0efc-0b1f-44a2-9846-47546086c77e.gif)
 
-## Demo
-
-Demoya gif veya bağlantı ekleyin
-
   
